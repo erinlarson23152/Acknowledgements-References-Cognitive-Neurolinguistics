@@ -1,1 +1,9 @@
-# Acknowledgements-References-Cognitive-Neurolinguistics
+# Acknowledgements
+I'd like to thank the Corina Lab for this opportunity to analyze and present data from previous dissertation research. I'd like to thank specifically Elizabeth Pierotti for the opportunity to perform a secondary analysis on her dissertation research [Audiovisual Spoken Word Processing in Typical-Hearing and Cochlear Implant Using Children: an ERP Investigation] (https://escholarship.org/uc/item/0qv1g0sp). I'd like to thank David Corina, Sharon Corina, and Maharrem Ayar for their assistance with statistical analysis and poster synthesis. I'd like to thank David and Sharon Corina for their assistance with data collection, and ERP data processing/analysis.
+
+# References
+- Hall, W. C. (2017). What You Don’t Know Can Hurt You: The Risk of Language Deprivation by Impairing Sign Language Development in Deaf Children. Maternal and Child Health Journal, 21(5), 961–965. https://doi.org/10.1007/s10995-017-2287-y 
+- Mayberry, Rachel. (2007). When timing is everything: Age of first-language acquisition effects on second-language learning. Applied Psycholinguistics. 28. 537 - 549. 10.1017/S0142716407070294.
+- Pierotti, E. (2024). Audiovisual Spoken Word Processing in Typical-Hearing and Cochlear Implant Using Children: an ERP Investigation [Doctoral dissertation, University of California, Davis].
+- Tomblin JB, Harrison M, Ambrose SE, Walker EA, Oleson JJ, Moeller MP. Language Outcomes in Young Children with Mild to Severe Hearing Loss. Ear Hear. 2015 Nov-Dec;36 Suppl 1(0 1):76S-91S. doi: 10.1097/AUD.0000000000000219. PMID: 26731161; PMCID: PMC4704115.
+- Wie, O. B., Falkenberg, E. S., Tvete, O., & Tomblin, B. (2007). Children with a cochlear implant: Characteristics and determinants of speech recognition, speech-recognition growth rate, and speech production. International Journal of Audiology, 46(5), 232–243. https://doi.org/10.1080/14992020601182891
